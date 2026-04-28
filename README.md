@@ -73,7 +73,7 @@ Read the input image in color mode.
 
 ### Developed By: Shadhanashree S V
 
-### Register No: 212223230202S2
+### Register No: 212223230202
 
 ```python
 import cv2
